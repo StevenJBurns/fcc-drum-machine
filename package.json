@@ -1,0 +1,20 @@
+{
+  "name": "fcc-drum-machine",
+  "author": "",
+  "license": "ISC",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StevenJBurns/fcc-drum-machine.git"
+  },
+  "bugs": {
+    "url": "https://github.com/StevenJBurns/fcc-drum-machine/issues"
+  },
+  "homepage": "https://github.com/StevenJBurns/fcc-drum-machine",
+  "keywords": []
+}
